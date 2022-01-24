@@ -11,8 +11,8 @@
 
 ------
 ## ✔Links
-- ### Week 1
-- ### Week 2
-- ### Week 3
-- ### Week 4
-- ### Week 5
+- ### [Week 1](https://github.com/seoyeon1/AI-Basic/tree/master/week1)
+- ### [Week 2](https://github.com/seoyeon1/AI-Basic/tree/master/week2)
+- ### [Week 3](https://github.com/seoyeon1/AI-Basic/tree/master/week3)
+- ### [Week 4](https://github.com/seoyeon1/AI-Basic/tree/master/week4)
+- ### [Week 5](https://github.com/seoyeon1/AI-Basic/tree/master/week5)
